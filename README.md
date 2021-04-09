@@ -4,7 +4,7 @@
 
 ```
 
-pip install -r requiements.txt
+pip install -r requirements.txt
 
 ```
 
