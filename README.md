@@ -16,6 +16,36 @@ python checkpoint_video.py
 
 ```
 
+- Output is fireworks.json
+
+```
+
+{
+'data' : [
+      {
+        'duration': 0,
+        'coor': (width, height)
+      },
+      
+      {
+        'duration': 1230,
+        'coor': (width, height)
+      },
+      
+      {
+        'duration': 2560,
+        'coor': (width, height)
+      },
+      
+      {
+        'duration': 3550,
+        'coor': (width, height)
+      }
+     ]
+}
+
+```
+
 ## Project Structure
 
 - sample.mp4 is the video. This file is only for read frame not audio.
